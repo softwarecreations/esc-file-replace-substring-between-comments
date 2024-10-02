@@ -16,10 +16,10 @@ fs.writeFileSync(filePath, '#blah\n192.168.0.1 blah.local\n');
 
 show();
 
-fileReplaceSubstringBetweenComments(filePath, 'example.org', '10.0.0.1 server.lan\n10.0.0.2 web.lan\n10.0.0.3 dns.lan', 'append');
+fileReplaceSubstringBetweenComments(filePath, 'example.org', '10.0.0.1 server.example.org\n10.0.0.2 web.example.org\n10.0.0.3 dns.example.org', 'append');
 
 show();
 
-fileReplaceSubstringBetweenComments(filePath, 'example.org', '10.0.0.1 my-server.lan\n10.0.0.20 my-web.lan\n10.0.0.30 my-dns.lan');
+fileReplaceSubstringBetweenComments(filePath, 'example.org', '10.0.0.1 my-server.example.org\n10.0.0.20 my-web.example.org\n10.0.0.30 my-dns.example.org');
 
 show();

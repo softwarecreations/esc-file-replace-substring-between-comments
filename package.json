@@ -14,7 +14,15 @@
     "url": "git+https://github.com/softwarecreations/esc-file-replace-substring-between-comments.git"
   },
   "keywords": [
-    "minimal-dependencies",
+    "no external dependencies",
+    "replace lines between comments",
+    "replace code between comments",
+    "replace config between comments",
+    "replace settings between comments",
+    "update config file",
+    "update hosts file",
+    "update definitions",
+    "update settings",
     "simple"
   ],
   "author": "softwarecreations",
