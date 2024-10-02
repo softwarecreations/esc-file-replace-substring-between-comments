@@ -47,7 +47,7 @@ fileReplaceSubstringBetweenComments(filePath, 'example.org', '10.0.0.1 my-server
 show();
 ```
 (the grey text is the show function, showing the full file as is, magenta text is the module's default output)
-![image](https://github.com/user-attachments/assets/91979a73-6d22-4208-b108-3136c3af3966)
+![image](https://github.com/user-attachments/assets/fe050b74-96a3-4f2e-ad56-9e2178e329de)
 
 ## console.log override-able
 Pass in your own logging functions for
