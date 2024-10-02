@@ -55,6 +55,12 @@ Pass in your own logging functions for
 * Not found (disabled by default)
 * Unchanged (disabled by default)
 
+## See also
+* esc-file-replace-substring
+* esc-file-replace-contents
+* esc-read-file-without-comments
+* esc-get-data-from-json-file
+
 ## Notes
 Have fun!
 
