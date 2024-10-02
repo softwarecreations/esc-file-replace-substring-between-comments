@@ -4,8 +4,8 @@
   "description": "Replace substring (all lines) between comments in a file.",
   "main": "main.mjs",
   "dependencies": {
+    "esc-file-replace-substring": "^0.2.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node main.mjs"
   },
