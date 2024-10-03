@@ -5,7 +5,7 @@
   "main": "main.mjs",
   "types": "main.d.ts",
   "dependencies": {
-    "esc-file-replace-substring": "^0.2.0"
+    "esc-file-replace-substring": "^0.2.2"
   },
   "scripts": {
     "start": "node main.mjs"
