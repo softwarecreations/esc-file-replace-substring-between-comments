@@ -1,8 +1,9 @@
 {
   "name": "esc-file-replace-substring-between-comments",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Replace substring (all lines) between comments in a file.",
   "main": "main.mjs",
+  "types": "main.d.ts",
   "dependencies": {
     "esc-file-replace-substring": "^0.2.0"
   },
