@@ -8,4 +8,5 @@ declare module 'esc-file-replace-substring-between-comments' {
     notFoundLogF? : (message: string) => void | null, 
     unchangedLogF?: (message: string) => void | null
   ) => boolean;
+  export default fileReplaceSubstringBetweenComments;
 }
